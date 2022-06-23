@@ -1,3 +1,3 @@
 # My note is so 
 ## test
-# Test
+# Testlet g:vista_icon_indent = ["╰─▸ ", "├─▸ "]
