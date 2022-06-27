@@ -1,3 +1,1 @@
-# My note is so 
-## [test](test.md)
-## [test](test.md)
+# My note is so
