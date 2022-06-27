@@ -11,4 +11,4 @@
 theme:
   name: material
 ```
-
+* 按`mkdocs serve`
