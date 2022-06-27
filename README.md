@@ -7,7 +7,8 @@
 * 開好一個資料夾，在CLI中輸入`mkdocs new .`
 * 系統將自動產生一個叫`docs`的資料夾、跟`mkdocs.yml`這個檔案
 * 打開`mkdocs.yml`編輯以下內容
-```
-
+```yml
+theme:
+  name: material
 ```
 
