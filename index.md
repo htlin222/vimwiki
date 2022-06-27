@@ -1,3 +1,3 @@
-# My note is so
-README
+# Start
+[README](README.md)
 
