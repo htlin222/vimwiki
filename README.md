@@ -15,7 +15,8 @@ theme:
 * 接著再輸入`mkdocs build` 就可以產生靜態網站
 
 # 如何推到github page?
-* 新增一個檔案在``
+* 新增一個檔案在`.github/workflows/ci.yml`
+* 在檔案中加入以下內容
 ```yml
 name: ci
 on:
