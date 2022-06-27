@@ -11,4 +11,5 @@
 theme:
   name: material
 ```
-* 按`mkdocs serve`
+* 按`mkdocs serve`就可以在localhost中預覽你的網站
+*
