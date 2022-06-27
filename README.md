@@ -36,4 +36,4 @@ jobs:
       - run: mkdocs gh-deploy --force
 ```
 * 最後在[Publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)的地方，選擇頁面為`gh-page`
-* 到``
+* 到`<username>.gitlab.io/<repository>`就可以看你的網站了
