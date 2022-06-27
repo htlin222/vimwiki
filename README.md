@@ -15,6 +15,7 @@ theme:
 * 接著再輸入`mkdocs build` 就可以產生靜態網站
 
 # 如何推到github page?
+* 新增一個檔案在``
 ```yml
 name: ci
 on:
@@ -33,4 +34,3 @@ jobs:
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
 ```
-
