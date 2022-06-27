@@ -12,4 +12,7 @@ theme:
   name: material
 ```
 * 在CLI中輸入`mkdocs serve`就可以在localhost中預覽你的網站
-* 接著再輸入`mkdocs build`
+* 接著再輸入`mkdocs build` 就可以產生靜態網站
+
+# 如何推到github page?
+
