@@ -1,3 +1,25 @@
 site_name: 🦎的技術筆記
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - header.autohide
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/htlin222
+      name: lizard's github
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+extra:
+  generator: false
