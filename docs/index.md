@@ -11,3 +11,12 @@ flowchart TD
 	A-->C
 	B-- good morning -->D
 	C-->E
+	flowch
+	%%{init: {'securityLevel': 'loose', 'theme':'dark'}}%%
+	flowchart TD
+		A-->B
+		A-->C
+		B-- good morning -->D
+		C-->E
+		A()
+		click B "" "" _blank
