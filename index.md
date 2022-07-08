@@ -1,7 +1,7 @@
 # Start
 [README](README.md)
 
-## Vim 
+## Vim
 ### 基本用法
 * 相關書籍
 * 小技巧
